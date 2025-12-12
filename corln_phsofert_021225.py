@@ -12,6 +12,8 @@ Methods: Two-way ANOVA (C(Variety) + C(P_appln)) across No1_wt, Can_wt, Jumbo_wt
 Outputs: sum_stats_merged_phosfert_021125.csv, nonas_merged_phosfert_021125.csv, {measure}_Variety.png, {measure}_P_appln.png, {measure}_Year.png, anova_results.csv, tukey_hsd_results.csv.
 
 Dependencies: pandas, seaborn, matplotlib, scipy, statsmodels, numpy.
+
+Results published in https://doi.org/10.1002/saj2.70145
 """
 
 
