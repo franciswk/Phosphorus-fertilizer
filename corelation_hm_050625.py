@@ -4,6 +4,9 @@ Spearman Correlation Heatmaps for Phosphorus Fertilizer Study
 Purpose: Compute and visualize year-by-year Spearman correlations between yield 
 components, soil properties, root and leaf nutrient levels.
 
+Pre-requisite: In 'merging_phosfert_021925' find lien: 'merged_df = pd.merge(df_yield, df_leaf, on=common_cols, how='inner')',
+and change df_leaf to df_root or df_soil as needed to plot correlations for root or soil nutrients.
+
 Input: merged_dataset_022725.csv - Available upon request.
 
 Methods: Spearman correlation across numeric variables (yield, soil, leaf nutrients) 
