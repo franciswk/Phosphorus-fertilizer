@@ -23,7 +23,7 @@ The workflow consists of:
 
 ### Statistical Analysis
 
-**`corln_phsofert_021225.py`** - Two-way ANOVA and Tukey's HSD for yield responses to Variety and Phosphorus application.
+**`corln_phsofert_021225.py`** - Two-way ANOVA and Tukey's HSD for yield responses to Phosphorus application.
 
 **`corelation_hm_050625.py`** - Year-by-year Spearman correlation heatmaps across yield, soil, and tissue nutrients.
 
